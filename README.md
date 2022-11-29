@@ -1,4 +1,4 @@
 # DataGenerator
 Artifically data generating by using faker (html, css and JavaScript )
 After clicking on generate it will show result like this
-!Abc(https://github.com/AyeshaIrshad1337/DataGenrator/blob/main/achievement.PNG?raw=true)
+![Empty](https://github.com/AyeshaIrshad1337/DataGenrator/blob/main/achievement.PNG?raw=true)
